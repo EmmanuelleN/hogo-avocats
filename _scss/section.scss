@@ -1,0 +1,17 @@
+.Section {
+
+  padding: 4rem 0;
+
+  &--gradient {
+    background: linear-gradient($white, $very-light-grey);
+  }
+
+  &-firstBloc {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+  }
+
+  &-bloc {
+    margin-bottom: 4rem;
+  }
+}

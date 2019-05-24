@@ -1,0 +1,19 @@
+.yellow-maj {
+  text-transform: uppercase;
+  color: $yellow-darker;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+
+  @media (min-width: 768px) {
+    font-size: 1.2rem;
+  }
+}
+
+.highlight {
+  background-color: $yellow;
+}
+
+.centered {
+  text-align: center;
+}

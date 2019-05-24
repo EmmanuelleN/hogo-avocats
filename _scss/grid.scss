@@ -1,0 +1,44 @@
+.Row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+
+  &--reverse {
+    flex-direction: column-reverse;
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+    }
+  }
+}
+
+.Col {
+  width: 100%;
+
+  &--half {
+    @media (min-width: 768px) {
+      width: 45%;
+    }
+  }
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+
+  @media (min-width: 768px) {
+    width: 750px;
+  }
+
+  @media (min-width: 992px) {
+    width: 970px;
+  }
+
+  @media (min-width: 1200px) {
+    width: 1170px;
+  }
+}
