@@ -1,0 +1,23 @@
+.CardSkill {
+  box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.1);
+  padding: 1rem 2rem;
+  border-bottom: 9px solid $yellow;
+  margin-bottom: 3rem;
+
+  @media (min-width: 768px) {
+    min-height: 232px;
+    min-width: 296px;
+  }
+
+  ul {
+        padding-inline-start: 1rem;
+  }
+  li {
+    list-style-type: none;
+    margin-bottom: 1rem;
+  }
+
+  &-icon {
+    color: $yellow;
+  }
+}
