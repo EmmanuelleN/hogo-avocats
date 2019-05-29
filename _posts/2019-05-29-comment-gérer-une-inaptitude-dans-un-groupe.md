@@ -1,7 +1,7 @@
 ---
 title: Comment gérer une inaptitude dans un groupe ?
 permalink: inaptitude-dans-groupe
-image: gerer-aptitude-medicale.png
+image: gerer-inaptitude-medicale.png
 meta-desc: Lorsque le salarié est déclaré inapte à son emploi par le Médecin du travail,
   cela signifie qu’il ne peut plus exercer ses fonctions pour des raisons médicales.
   Découvrez comment procéder à la procédure de reclassement.
