@@ -44,4 +44,19 @@
     margin-bottom: 0;
     color: $dark-grey;
   }
+
+  &-content {
+
+    h2 {
+      margin-top: 3rem;
+    }
+
+    ul {
+      padding-inline-start: 40px;
+    }
+
+    li {
+      list-style: disc;
+    }
+  }
 }

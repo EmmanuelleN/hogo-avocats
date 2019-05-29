@@ -1,0 +1,24 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+  align-items: center;
+
+  &-links {
+    display: flex;
+    align-items: baseline;
+  }
+
+  &-link {
+    margin-right: 2rem;
+    font-weight: bold;
+
+    &--active {
+      color: $yellow-darker;
+
+      &:hover {
+        color: $yellow;
+      }
+    }
+  }
+}
