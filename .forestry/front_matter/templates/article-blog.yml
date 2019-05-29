@@ -1,0 +1,19 @@
+---
+label: Article blog
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: meta-desc
+  label: meta-desc
