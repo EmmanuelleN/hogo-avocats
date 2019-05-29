@@ -10,21 +10,19 @@ permalink: /blog/
   <section class="container">
     <h1 class="centered blue big">Blog</h1>
     <h2 class="centered normal Section-title">Actualités juridiques et droit du travail</h2>
-    <div class="Row">
+    <div class="Cards">
       {% for post in site.posts %}
-      <div class="Col--halfLarge">
         <div class="CardBlog">
           <div class="CardBlog-image" style="background-image: url(/assets/images/{{ post.image }})";></div>
           <div class="CardBlog-content">
             <h3>{{ post.title }}</h3>
-            <p>{{ post.meta-desc }}</p>
+            <p class="CardBlog-desc">{{ post.meta-desc }}</p>
             <p class="CardBlog-date">
               Le {% include date.html date=post.date %}
             </p>
           </div>
           <a class="CardBlog-link" href="{{ post.url }}"></a>
         </div>
-      </div>
       {% endfor %}
     </div>
   </section>
