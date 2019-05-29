@@ -2,8 +2,17 @@
 
   padding: 4rem 0;
 
+  &--noPaddingBottom {
+    padding-top: 4rem;
+  }
+
   &--gradient {
     background: linear-gradient($white, $very-light-grey);
+  }
+
+  &--blue {
+    background-color: $blue;
+    color: $white;
   }
 
   &-firstBloc {
@@ -13,5 +22,9 @@
 
   &-bloc {
     margin-bottom: 4rem;
+  }
+
+  &-title {
+    margin-bottom: 3rem;
   }
 }
