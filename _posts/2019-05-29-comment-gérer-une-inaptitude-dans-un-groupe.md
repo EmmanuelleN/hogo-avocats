@@ -42,7 +42,7 @@ L’employeur doit proposer au salarié un emploi au sein de l'entreprise ou des
 
 La notion de permutation définit un ensemble social cohérent et suppose l’existence d’une autorité apte à gouverner cet ensemble et à y gérer la main d’œuvre en l’affectant dans l’une ou l’autre des entités, comme un système de vases communicants.
 
- Le groupe de reclassement ne requiert pas une parfaite identité ou la complémentarité des activités en cause. Ces dernières ne doivent en effet qu’être compatibles et permettre une possibilité pour le salarié d’y travailler.
+Le groupe de reclassement ne requiert pas une parfaite identité ou la complémentarité des activités en cause. Ces dernières ne doivent en effet qu’être compatibles et permettre une possibilité pour le salarié d’y travailler.
 
 La notion de groupe fait quant à elle référence à des définitions capitalistiques et de contrôle en termes de droits de vote, désignation des organes dirigeantes, clauses statutaires conférant des pouvoirs particuliers.
 
