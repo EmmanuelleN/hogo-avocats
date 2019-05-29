@@ -14,5 +14,17 @@ fields:
 - type: textarea
   name: meta-desc
   label: meta-desc
+- name: template
+  type: select
+  default: ''
+  config:
+    required: true
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: template
 pages:
 - _posts/comment-gérer-une-inaptitude-dans-un-groupe.md
