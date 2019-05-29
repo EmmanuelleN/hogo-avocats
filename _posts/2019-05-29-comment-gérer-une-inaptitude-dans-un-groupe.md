@@ -5,13 +5,12 @@ image: "/uploads/gerer-inaptitude-medicale.png"
 meta-desc: Lorsque le salarié est déclaré inapte à son emploi par le Médecin du travail,
   cela signifie qu’il ne peut plus exercer ses fonctions pour des raisons médicales.
   Découvrez comment procéder à la procédure de reclassement.
-
 ---
-La bête noire des services RH des groupes d’une certaine taille depuis de nombreuses années : l’obligation de reclassement. 
+La bête noire des services RH des groupes d’une certaine taille depuis de nombreuses années : l’obligation de reclassement.
 
 Comment gérer un dossier d'inaptitude dans un groupe ?
 
-Quelques éclairages s'imposent. 
+Quelques éclairages s'imposent.
 
 ## ​1er point : qu’est ce que l’obligation de reclassement ?
 
@@ -21,7 +20,7 @@ Afin d’éviter, dans la mesure du possible, le licenciement du salarié dans u
 
 ## 2ème point : comment orienter la rechercher de reclassement ?
 
-La loi est très claire. La recherche doit porter : 
+La loi est très claire. La recherche doit porter :
 
 Sur un autre emploi approprié à ses capacités,
 
@@ -33,7 +32,7 @@ Bien évidemment, il est nécessaire de tenir compte des préconisations du méd
 
 L’employeur est donc astreint à une obligation de moyens renforcée dans la mesure où il doit proposer au salarié, le cas échéant, une adaptation du ou des postes existants.
 
-Il doit donc mettre tous les moyens à sa disposition pour satisfaire à son obligation de reclassement avant d'envisager le licenciement du salarié. 
+Il doit donc mettre tous les moyens à sa disposition pour satisfaire à son obligation de reclassement avant d'envisager le licenciement du salarié.
 
 ## 3ème point : quel est le périmètre géographique de la recherche ?
 

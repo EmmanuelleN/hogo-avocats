@@ -4,3 +4,10 @@
 sass:
   sass_dir:          _scss
   style:            :compressed
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
