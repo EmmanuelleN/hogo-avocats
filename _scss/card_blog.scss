@@ -3,10 +3,10 @@
   border-bottom: 9px solid $yellow;
   margin-bottom: 3rem;
   position: relative;
+  flex: 0 1 100%;
 
   @media (min-width: 768px) {
-    min-height: 292px;
-    min-width: 296px;
+    flex: 0 1 48%;
   }
 
   &-image {
