@@ -14,17 +14,17 @@ fields:
 - type: textarea
   name: meta-desc
   label: meta-desc
-- name: template
+- name: layout
   type: select
-  default: ''
+  default: _posts/2019-05-17-le-fonctionnement-du-forfait-jour.md
   config:
     required: true
     options: []
     source:
-      type: simple
-      section: 
+      type: pages
+      section: jekyll-posts
       file: 
       path: 
-  label: template
+  label: layout
 pages:
 - _posts/comment-gérer-une-inaptitude-dans-un-groupe.md
