@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Le fonctionnement du forfait jours
-permalink: "/le-fonctionnement-du-forfait-jour/"
+permalink: /fonctionnement-forfait-jour/
 image: fonctionnement-forfait-jour.png
 meta-desc: "Le forfait jours est un mode d’organisation du temps de travail.
 Découvrez le fonctionnement du forfait jour, ainsi que toutes nos explications sur son application."
