@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Le fonctionnement du forfait jours
-permalink: "/test/"
+permalink: "/le-fonctionnement-du-forfait-jour/"
 image: fonctionnement-forfait-jour.png
-
+meta-desc: "Le forfait jours est un mode d’organisation du temps de travail.
+Découvrez le fonctionnement du forfait jour, ainsi que toutes nos explications sur son application."
 ---
 Le forfait jours est un mode d’organisation du temps de travail, avec un décompte en journées et/ou demi-journées de travail sur un exercice déterminé.
 
@@ -21,7 +22,7 @@ En effet, l’organisation du temps de travail repose sur l’articulation de 2 
 Parmi les jours non-travaillés, nous retrouvons :
 
 * les samedis & dimanches ;
-* les CP ; 
+* les CP ;
 * les jours fériés chômés et enfin des jours de repos permettant de garantir le plafond maximal, et dont le nombre peut varier d’un exercice sur l’autre.
 
 ## Comment déterminer le nombre de jours de repos dont le salarié a droit ?

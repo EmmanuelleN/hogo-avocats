@@ -1,0 +1,33 @@
+.CardBlog {
+  box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.1);
+  border-bottom: 9px solid $yellow;
+  margin-bottom: 3rem;
+  position: relative;
+
+  @media (min-width: 768px) {
+    min-height: 292px;
+    min-width: 296px;
+  }
+
+  &-image {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+  }
+
+  &-content {
+    padding: 1rem 2rem;
+  }
+
+  &-date {
+    color: $dark-grey;
+  }
+
+  &-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
