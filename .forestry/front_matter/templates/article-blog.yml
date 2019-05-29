@@ -14,5 +14,3 @@ fields:
 - type: textarea
   name: meta-desc
   label: meta-desc
-pages:
-- _posts/comment-gérer-une-inaptitude-dans-un-groupe.md
