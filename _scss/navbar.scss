@@ -12,6 +12,12 @@
   &-link {
     margin-right: 2rem;
     font-weight: bold;
+    color: $black;
+    transition: all 0.3s ease;
+
+    &:hover {
+      color: $yellow-darker;
+    }
 
     &--active {
       color: $yellow-darker;
