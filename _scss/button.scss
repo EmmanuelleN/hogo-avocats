@@ -46,4 +46,13 @@
       background-color: $grey-lighter;
     }
   }
+
+  &--yellow {
+    background-color: $yellow;
+    color: $black;
+
+    &:hover {
+      background-color: $yellow-lighter;
+    }
+  }
 }
