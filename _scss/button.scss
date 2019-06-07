@@ -6,8 +6,9 @@
   display: block;
   text-align: center;
   cursor: pointer;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  transition: all 0.3s ease;
 
   &--small {
     font-size: 1rem;
@@ -24,15 +25,25 @@
     display: inline-block;
     width: auto;
     font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
   }
 
   &--blue {
     background-color: $blue;
     color: $white;
+
+    &:hover {
+      background-color: $blue-lighter;
+    }
   }
 
   &--grey {
     background-color: $grey;
     color: $black;
+
+    &:hover {
+      background-color: $grey-lighter;
+    }
   }
 }

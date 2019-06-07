@@ -12,16 +12,16 @@ permalink: /blog/
     <h2 class="centered normal Section-title">Actualités juridiques et droit du travail</h2>
     <div class="Cards">
       {% for post in site.posts %}
-        <div class="CardBlog">
-          <div class="CardBlog-image" style="background-image: url(/assets/images/{{ post.image }})";></div>
-          <div class="CardBlog-content">
+        <div class="Card">
+          <div class="Card-image" style="background-image: url(/assets/images/{{ post.image }})";></div>
+          <div class="Card-content">
             <h3>{{ post.title }}</h3>
-            <p class="CardBlog-desc">{{ post.meta-desc }}</p>
-            <p class="CardBlog-date">
+            <p class="Card-desc">{{ post.meta-desc }}</p>
+            <p class="Card-date">
               Le {% include date.html date=post.date %}
             </p>
           </div>
-          <a class="CardBlog-link" href="{{ post.url }}"></a>
+          <a class="Card-link" href="{{ post.url }}"></a>
         </div>
       {% endfor %}
     </div>
