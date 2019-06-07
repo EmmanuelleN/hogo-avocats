@@ -1,17 +1,18 @@
 .Card {
   box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.1);
   border-bottom: 9px solid $yellow;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   position: relative;
   flex: 0 1 100%;
   background-color: $white;
 
   @media (min-width: 768px) {
     flex: 0 1 48%;
+    margin-bottom: 3rem;
   }
 
   &--padding {
-    padding: 1rem 2rem;
+    padding: 2rem 2rem 1rem 2rem;
     box-sizing: border-box;
   }
 

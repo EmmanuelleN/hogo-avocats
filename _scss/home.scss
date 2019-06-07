@@ -22,6 +22,19 @@
       width: 60%;
       height: auto;
     }
+
+    &--round {
+      width: 40%;
+      height: auto;
+      border-radius: 50%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+      @media (min-width: 768px) {
+        width: 50%;
+      }
+    }
   }
 
   &-title {
@@ -47,5 +60,15 @@
     &--noMarginTop {
       margin-top: 0;
     }
+  }
+
+  &-address {
+    margin-top: 5rem;
+    font-weight: bolder;
+  }
+
+  &-icon {
+    height: 100px;
+    width: 100px;
   }
 }

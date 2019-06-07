@@ -33,7 +33,12 @@
   font-size: 2rem;
 }
 
-
 .blue {
   color: $blue;
+}
+
+.blue-maj {
+  text-transform: uppercase;
+  color: $blue;
+  font-weight: bolder;
 }
