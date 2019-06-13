@@ -1,18 +1,18 @@
 .Footer {
 
+  a {
+    color: $white;
+    font-weight: normal;
+
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+
   &-icons {
     font-size: 2.5rem;
     display: flex;
     justify-content: flex-end;
-
-    a {
-      color: $white;
-      opacity: 0.8;
-
-      &:hover {
-        opacity: 1;
-      }
-    }
   }
 
   &-lastIcon {
@@ -23,7 +23,7 @@
     margin-bottom: 2rem;
 
     @media (min-width: 768px) {
-      argin-bottom: 0;
+      margin-bottom: 0;
     }
   }
 
@@ -31,7 +31,8 @@
     margin-bottom: 2rem;
 
     @media (min-width: 768px) {
-      argin-bottom: 0;
+      margin-bottom: 0;
     }
   }
+
 }
