@@ -15,4 +15,5 @@ fields:
   name: meta-desc
   label: meta-desc
 pages:
+- _posts/classement-du-cabinet.md
 - _posts/2019-06-12-accord-collectif-d-entreprise.md
