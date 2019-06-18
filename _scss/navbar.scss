@@ -50,6 +50,7 @@
   }
 
   &-link {
+    z-index: 20;
     margin-right: 2rem;
     font-weight: bold;
     color: $dark;
@@ -71,10 +72,6 @@
         color: $yellow;
       }
     }
-  }
-
-  &-logo {
-    z-index: 20;
   }
 
   &-buttons {
