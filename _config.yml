@@ -4,6 +4,9 @@
 sass:
   sass_dir:          _scss
   style:            :compressed
+collections:
+  infographics:
+    output: true
 defaults:
   -
     scope:
@@ -11,5 +14,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "infographics"
+    values:
+      layout: "infographic"
 title: "Le conseil en droit social sur-mesure - HOGO Avocats"
 meta-desc: "HOGO est une société d’avocats exclusivement dédiée à l’accompagnement des entreprises & associations en droit du travail et droit de la sécurité sociale."

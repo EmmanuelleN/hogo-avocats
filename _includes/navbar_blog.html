@@ -7,7 +7,8 @@
     </a>
 
     <nav class="Navbar-links">
-      <a href="/blog" class="Navbar-link Navbar-link--active">Blog</a>
+      <a href="/blog" class="Navbar-link {% if page.url =='/blog/' %} {{'Navbar-link--active'}} {% endif %}">Blog</a>
+      <a href="/infographies" class="Navbar-link {% if page.url =='/infographies/' %} {{'Navbar-link--active'}} {% endif %}">Infographies</a>
       <a href="/" class="Navbar-cta Button--small Button--blue">Découvrir nos services</a>
       <button type="button" class="Navbar-buttons Navbar-close"><i class="fas fa-times"></i></button>
     </nav>
