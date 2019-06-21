@@ -33,4 +33,5 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/coût-patronal-salaire-brut-et-salaire-net.md
 - _infographics/le-contrôle-urssaf-sur-support-dématérialisé.md
