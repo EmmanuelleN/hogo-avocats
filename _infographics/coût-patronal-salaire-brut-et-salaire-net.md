@@ -6,6 +6,5 @@ image: assets/images/assets/images/cout-patronal-salaire.png
 category: Paie & DSN
 alt-tag: Infographie coût patronal, salaire brut et salaire net
 meta-desc: ''
-published: false
 
 ---
