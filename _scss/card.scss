@@ -1,10 +1,17 @@
 .Card {
   box-shadow: 0 0 23px 0 rgba(0, 0, 0, 0.1);
-  border-bottom: 9px solid $yellow;
   margin-bottom: 2rem;
   position: relative;
   flex: 0 1 100%;
   background-color: $white;
+
+  &--yellow {
+    border-bottom: 9px solid $yellow;
+  }
+
+  &--blue {
+    border-bottom: 9px solid $blue;
+  }
 
   @media (min-width: 768px) {
     flex: 0 1 48%;
@@ -49,5 +56,20 @@
 
   &-icon {
     color: $yellow;
+  }
+
+  &-cta {
+    text-align: right;
+    color: $yellow-darker;
+    font-weight: bold;
+  }
+
+  &-category {
+    background-color: $blue;
+    color: $white;
+    font-weight: bold;
+    padding: 3px 7px;
+    border-radius: 5px;
+    display: inline-block;
   }
 }
