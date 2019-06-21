@@ -15,5 +15,6 @@ fields:
   name: meta-desc
   label: meta-desc
 pages:
+- _infographics/le-contrôle-urssaf-sur-support-dématérialisé.md
 - _posts/2019-06-14-mise-à-pied-à-titre-conservatoire.md
 - _posts/2019-06-12-accord-collectif-d-entreprise.md
