@@ -9,6 +9,8 @@ sections:
   label: Infographies
   create: all
   match: "**/*"
+  templates:
+  - infographie
 - type: jekyll-posts
   label: Posts
   create: all
