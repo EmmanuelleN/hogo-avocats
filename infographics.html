@@ -11,6 +11,9 @@ permalink: /infographies/
   <div class="container">
     <h1 class="centered blue big">Nos infographies</h1>
     <h2 class="centered normal Section-title">Pour comprendre le droit du travail en un coup d’oeil</h2>
+
+    {% include list_categories.html %}
+
     <div class="Cards">
       {% for infographic in site.infographics %}
         <div class="Card Card--blue">
@@ -30,3 +33,5 @@ permalink: /infographies/
     </div>
   </div>
 </section>
+
+<script src="/assets/js/filterInfographics.js"></script>
