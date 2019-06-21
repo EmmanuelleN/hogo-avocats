@@ -21,5 +21,16 @@ fields:
 - type: text
   name: meta-desc
   label: meta-desc
+- name: date
+  type: datetime
+  label: Date de publication
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
 pages:
 - _infographics/le-contrôle-urssaf-sur-support-dématérialisé.md
