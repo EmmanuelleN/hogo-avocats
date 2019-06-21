@@ -1,0 +1,22 @@
+---
+label: Infographie
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: image
+  label: image
+- type: text
+  name: category
+  label: category
+- type: text
+  name: alt-tag
+  label: alt-tag
+- type: text
+  name: meta-desc
+  label: meta-desc
