@@ -32,5 +32,3 @@ fields:
     display_utc: false
   hidden: true
   default: now
-pages:
-- _infographics/le-contrôle-urssaf-sur-support-dématérialisé.md
