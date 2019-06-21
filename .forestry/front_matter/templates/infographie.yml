@@ -30,7 +30,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-  hidden: true
+  hidden: false
   default: now
 pages:
 - _infographics/coût-patronal-salaire-brut-et-salaire-net.md
