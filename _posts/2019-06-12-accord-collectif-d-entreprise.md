@@ -1,7 +1,7 @@
 ---
 title: Accord collectif d'entreprise
 permalink: "/accord-collectif-entreprise"
-image: "/accord-collectif-entreprise.png"
+image: "assets/images/accord-collectif-entreprise.png"
 meta-desc: Depuis le 1er mai 2018, la règle majoritaire a été généralisée à tous les
   thèmes de négociation. Découvrez le fonctionnement de cette règle majoritaire.
 

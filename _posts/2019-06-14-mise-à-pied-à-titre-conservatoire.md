@@ -1,7 +1,7 @@
 ---
 title: Mise à pied à titre conservatoire
 permalink: "/mise-a-pied-à-titre-conservatoire"
-image: "/mise-a-pied-a-titre-conservatoire.png"
+image: "assets/images/mise-a-pied-a-titre-conservatoire.png"
 meta-desc: 'La mise à pied à titre conservatoire est un mécanisme juridique particulier.
   Découvrez son intérêt. '
 
