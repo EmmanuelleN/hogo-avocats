@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/la-statut-du-vrp.md
 - _infographics/le-télétravail.md
 - _infographics/les-congés-payés.md
 - _infographics/le-règlement-intérieur.md
