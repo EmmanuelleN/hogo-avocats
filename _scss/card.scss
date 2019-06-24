@@ -4,14 +4,7 @@
   position: relative;
   flex: 0 1 100%;
   background-color: $white;
-
-  &--yellow {
-    border-bottom: 9px solid $yellow;
-  }
-
-  &--blue {
-    border-bottom: 9px solid $blue;
-  }
+  border-bottom: 9px solid $blue;
 
   &--hidden {
     display: none;
