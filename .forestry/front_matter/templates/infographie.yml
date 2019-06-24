@@ -33,6 +33,5 @@ fields:
   hidden: false
   default: now
 pages:
-- _infographics/la-négociation-collective-sans-délégué-syndical.md
 - _infographics/le-contrôle-urssaf-sur-support-dématérialisé.md
 - _infographics/coût-patronal-salaire-brut-et-salaire-net.md
