@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/les-congés-payés.md
 - _infographics/le-règlement-intérieur.md
 - _infographics/le-détachement-dans-l-union-européenne.md
 - _infographics/epargne-salariale-la-participation.md
