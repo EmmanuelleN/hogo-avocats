@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/le-traitement-social-et-fiscal-de-l-indemnité-de-licenciement.md
 - _infographics/rupture-conventionnelle-d-un-salarié-protégé.md
 - _infographics/rupture-conventionnelle-d-un-salarié-non-protégé.md
 - _infographics/licenciement-économique-individuel-d-un-salarié-non-protégé.md
