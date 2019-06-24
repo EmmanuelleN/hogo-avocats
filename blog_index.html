@@ -14,7 +14,7 @@ permalink: /blog/
     <div class="Cards">
       {% for post in site.posts %}
         <div class="Card">
-          <div class="Card-image" style="background-image: url(/assets/images/{{ post.image }})";></div>
+          <div class="Card-image" style="background-image: url(/{{ post.image }})";></div>
           <div class="Card-content">
             <h3>{{ post.title }}</h3>
             <p class="Card-desc">{{ post.meta-desc }}</p>
