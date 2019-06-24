@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/epargne-salariale-la-participation.md
 - _infographics/epargne-salariale-l-intéressement.md
 - _infographics/le-conseil-d-entreprise.md
 - _infographics/le-contrôle-urssaf-sur-place.md
