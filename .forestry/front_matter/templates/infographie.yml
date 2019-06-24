@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/le-contrôle-urssaf-sur-place.md
 - _infographics/sous-traitance-et-obligation-de-vigilance.md
 - _infographics/fixation-forfaitaire-des-cotisations-sociales.md
 - _infographics/echantillonage-et-extrapolation.md
