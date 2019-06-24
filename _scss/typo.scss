@@ -17,8 +17,9 @@
 }
 
 .highlight {
-  background-color: $yellow;
+  background-color: $blue;
   white-space: nowrap;
+  color: $white;
 }
 
 .centered {
@@ -40,5 +41,17 @@
 .blue-maj {
   text-transform: uppercase;
   color: $blue;
-  font-weight: bolder;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+
+  @media (min-width: 768px) {
+    font-size: 1.2rem;
+  }
+
+  &--small {
+    @media (min-width: 768px) {
+      font-size: 1rem;
+    }
+  }
 }
