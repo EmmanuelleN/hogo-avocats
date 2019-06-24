@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/inaptitude-d-un-salarié-protégé.md
 - _infographics/inaptitude-d-un-salarié-non-protégé.md
 - _infographics/inaptitude-indemnités.md
 - _infographics/la-statut-du-vrp.md
