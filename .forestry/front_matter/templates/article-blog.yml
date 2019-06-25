@@ -25,6 +25,7 @@ fields:
     display_utc: false
   default: now
 pages:
+- _posts/inaptitude-et-paiement-du-salaire.md
 - _posts/2019-06-25-délai-pour-notifier-le-licenciement.md
 - _posts/2019-06-14-mise-à-pied-à-titre-conservatoire.md
 - _posts/2019-06-12-accord-collectif-d-entreprise.md
