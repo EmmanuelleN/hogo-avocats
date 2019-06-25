@@ -3,7 +3,7 @@ date: 2019-06-25 14:17:56 +0000
 title: Inaptitude et paiement du salaire
 permalink: inaptitude-paiement-salaire
 image: assets/images/inaptitude-paiement-du-salaire.png
-meta-desc: En matière d''inaptitude, bien que le salarié ne puisse plus travailler,
+meta-desc: En matière d'inaptitude, bien que le salarié ne puisse plus travailler,
   l'employeur doit lui payer son salaire tant qu'il ne l'a pas licencié.
 
 ---
