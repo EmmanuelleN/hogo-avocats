@@ -1,10 +1,10 @@
 ---
-date: 2019-06-25 11:30:44 +0000
+date: 2019-06-25T11:30:44.000+00:00
 title: Délai pour notifier le licenciement
-permalink: "/délai-pour-notifier-le-licenciement"
+permalink: "/delai-pour-notifier-licenciement"
 image: assets/images/delais-pour-notifier-le-licenciement.png
-meta-desc: 'Sécuriser le licenciement d''un salarié, c''est non seulement le justifier
-  mais aussi respecter les délais '
+meta-desc: Sécuriser le licenciement d'un salarié, c'est non seulement le justifier
+  mais aussi respecter les délais.
 
 ---
 ## Principe : délai d’un mois maximum suivant l’entretien préalable
