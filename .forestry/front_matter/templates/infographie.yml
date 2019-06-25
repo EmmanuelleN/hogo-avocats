@@ -33,6 +33,7 @@ fields:
   hidden: false
   default: now
 pages:
+- _infographics/information-et-consultation-du-comité-social-et-economique.md
 - _infographics/plan-d-épargne-pour-la-retraite-collective.md
 - _infographics/plan-d-épargne-d-entreprise.md
 - _infographics/loi-pacte-et-épargne-salariale.md
