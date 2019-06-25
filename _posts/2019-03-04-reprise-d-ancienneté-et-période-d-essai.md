@@ -1,8 +1,8 @@
 ---
-date: 2019-03-04 13:35:03 +0000
+date: 2019-03-04T13:35:03.000+00:00
 title: Reprise d'ancienneté et période d'essai
 permalink: "/reprise-d'ancienneté-et-période-d'essai"
-image: assets/images/reprise-d'ancienneté-et-période-d'essai.png
+image: assets/images/reprise-anciennete-et-periode-essai.png
 meta-desc: 'La reprise d''ancienneté n''empêche pas nécessairement la négociation
   d''une période d''essai. '
 
