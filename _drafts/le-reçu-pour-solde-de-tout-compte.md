@@ -1,5 +1,5 @@
 ---
-date: 2019-06-28 12:18:25 +0000
+date: 2019-02-12 13:18:25 +0000
 title: Le reçu pour solde de tout compte
 permalink: "/recu-pour-solde-de-tout-compte"
 image: assets/images/recu-pour-solde-de-tout-compte.png
