@@ -4,7 +4,7 @@ title: Heures supplémentaires
 permalink: "/heures-supplémentaires"
 image: assets/images/heures-supplementaires.png
 meta-desc: 'Le fait d''interdire au salarié de faire des heures supplémentaires n''est
-  pas un motif suffisant pour ne pas lui payer ces heures supplémentaires. '
+  pas un motif suffisant en soi pour ne pas lui payer ces heures supplémentaires. '
 
 ---
 Les débats sur les heures supplémentaires alimentent les contentieux prud'homaux depuis de nombreuses années et jusqu'à présent, il convient d'admettre que la jurisprudence était plutôt favorable à l'employeur.   
