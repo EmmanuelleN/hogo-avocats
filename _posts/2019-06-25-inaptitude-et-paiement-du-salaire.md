@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 14:17:56 +0000
+date: 2019-06-25T14:17:56.000+00:00
 title: Inaptitude et paiement du salaire
 permalink: inaptitude-paiement-salaire
 image: assets/images/inaptitude-paiement-du-salaire.png
@@ -15,10 +15,10 @@ Pour rappel, à compter du jour où il est déclaré inapte par le médecin du t
 
 A ce titre, le salaire doit être versé jusqu’à la présentation de la lettre de licenciement, même si le salarié ne peut pas exécuter un préavis en raison de son inaptitude.
 
-Suspendre le versement au jour de la notification du licenciement expose donc l’employeur à un risque de rappel de salaire.modifier.
+Suspendre le versement au jour de la notification du licenciement expose donc l’employeur à un risque de rappel de salaire.
 
 L’employeur ne peut pas s’exonérer de cette obligation en contraignant le salarié à solder ses droits à congés.
 
-Cependant, le contrat de travail est bien rompu dès l’envoi de la lettre de licenciement. 
+Cependant, le contrat de travail est bien rompu dès l’envoi de la lettre de licenciement.
 
 [Cass. Soc. 12.12.2018, pourvoi n°17-20.801](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000037850818&fastReqId=1848872397&fastPos=1)
