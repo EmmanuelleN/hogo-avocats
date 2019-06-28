@@ -2,7 +2,7 @@
 date: 2019-06-28 12:18:25 +0000
 title: Le reçu pour solde de tout compte
 permalink: "/recu-pour-solde-de-tout-compte"
-image: ''
+image: assets/images/recu-pour-solde-de-tout-compte.png
 meta-desc: 'Le reçu pour solde de tout compte signé par le salarié a un effet libératoire
   : il peut donc être opposé au salarié s''agissant des sommes qui y sont mentionnées. '
 
