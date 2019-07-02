@@ -25,6 +25,7 @@ fields:
     display_utc: false
   default: now
 pages:
+- _posts/test.md
 - _posts/2018-12-04-heures-supplémentaires.md
 - _posts/2019-02-12-le-reçu-pour-solde-de-tout-compte.md
 - _posts/2019-06-28-le-calcul-des-délais-en-jours-ouvrables.md
