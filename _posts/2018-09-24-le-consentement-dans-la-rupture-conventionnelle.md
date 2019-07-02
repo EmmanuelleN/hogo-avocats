@@ -1,5 +1,5 @@
 ---
-date: 2018-09-24 13:06:02 +0000
+publication-date: 2018-09-24 13:06:02 +0000
 title: Le consentement dans la rupture conventionnelle
 permalink: "/le-consentement-dans-la-rupture-conventionnelle"
 image: assets/images/le-consentement-dans-la-rupture-conventionnelle.png

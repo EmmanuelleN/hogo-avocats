@@ -1,5 +1,5 @@
 ---
-date: 2018-08-23 13:17:50 +0000
+publication-date: 2018-08-23 13:17:50 +0000
 title: Le contrat de travail à temps partiel
 permalink: "/le-contrat-de-travail-a-temps-partiel"
 image: assets/images/le-contrat-de-travail-a-temps-partiel.png

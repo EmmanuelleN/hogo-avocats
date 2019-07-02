@@ -1,4 +1,5 @@
 ---
+publication-date: 2019-05-17T13:35:03.000+00:00
 title: Accord collectif d'entreprise
 permalink: "/accord-collectif-entreprise"
 image: "assets/images/accord-collectif-entreprise.png"

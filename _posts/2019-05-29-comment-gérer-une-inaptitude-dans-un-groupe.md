@@ -1,4 +1,5 @@
 ---
+publication-date: 2019-05-17T13:35:03.000+00:00
 title: Comment gérer une inaptitude dans un groupe ?
 permalink: inaptitude-dans-groupe
 image: assets/images/gerer-inaptitude-medicale.png
