@@ -32,7 +32,7 @@ pagination:
   permalink: '/page:num/'
   title: ':title - page :num of :max'
   limit: 0
-  sort_field: 'date'
+  sort_field: 'publication-date'
   sort_reverse: true
 
 plugins_dir:
