@@ -1,5 +1,5 @@
 ---
-date: 2019-01-15 13:51:57 +0000
+publication-date: 2019-01-15 13:51:57 +0000
 title: Le calcul des délais en jours ouvrables
 permalink: "/le-calcul-des-delais-en-jours-ouvrables"
 image: assets/images/calcul-des-delais-en-jours-ouvrables.png

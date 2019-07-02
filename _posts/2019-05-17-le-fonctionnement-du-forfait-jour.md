@@ -1,4 +1,5 @@
 ---
+publication-date: 2019-05-17T13:35:03.000+00:00
 title: Le fonctionnement du forfait jours
 permalink: /fonctionnement-forfait-jour/
 image: assets/images/fonctionnement-forfait-jour.png

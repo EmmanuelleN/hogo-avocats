@@ -21,7 +21,7 @@ pagination:
             <h3>{{ post.title }}</h3>
             <p class="Card-desc">{{ post.meta-desc }}</p>
             <p class="Card-date">
-              Le {% include date.html date=post.date %}
+              Le {% include date.html date=post.publication-date %}
             </p>
           </div>
           <a class="Card-link" href="{{ post.url }}"></a>

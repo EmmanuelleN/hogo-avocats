@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25T14:17:56.000+00:00
+publication-date: 2019-06-25T14:17:56.000+00:00
 title: Inaptitude et paiement du salaire
 permalink: inaptitude-paiement-salaire
 image: assets/images/inaptitude-paiement-du-salaire.png

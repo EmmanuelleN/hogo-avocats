@@ -1,4 +1,5 @@
 ---
+publication-date: 2019-05-17T13:35:03.000+00:00
 title: Classement du Cabinet
 permalink: classement-cabinet-2019
 image: "assets/images/classement-hogo-avocats-2019.png"

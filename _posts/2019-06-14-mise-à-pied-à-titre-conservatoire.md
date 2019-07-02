@@ -1,4 +1,5 @@
 ---
+publication-date: 2019-05-17T13:35:03.000+00:00
 title: Mise à pied à titre conservatoire
 permalink: "/mise-a-pied-à-titre-conservatoire"
 image: "assets/images/mise-a-pied-a-titre-conservatoire.png"
