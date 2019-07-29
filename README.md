@@ -4,12 +4,12 @@
 
 This website is a showcase website for a legal firm. It is a static site generated using [Jekyll](https://jekyllrb.com/). 
 It is hosted on [Netlify](https://www.netlify.com/) and uses [Forestry](https://forestry.io/) as a CMS.
-The contact form uses [Getform](https://getform.io/)
+The contact form uses [Getform](https://getform.io/).
 
 ## How to run this website locally
 
 The website is build using [Jekyll](https://jekyllrb.com/), a static site generator. Jekyll requires a full ruby development environment. 
-How to install a Ruby development environment and the Jekyll gem : [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/)
+How to install a Ruby development environment and the Jekyll gem : [https://jekyllrb.com/docs/installation/](https://jekyllrb.com/docs/installation/).
 
 To launch the website locally, run first
 ```bundle``` 
@@ -21,14 +21,14 @@ and is available on http://localhost:4000
 
 ## Code style 
 
-The CSS uses the [BEM pattern](https://css-tricks.com/bem-101/)
+The CSS uses the [BEM pattern](https://css-tricks.com/bem-101/).
 
 ## Hosting 
 
 This website is hosted on [Netlify](https://www.netlify.com/), a continuous deployment and hosting platform. 
 *Code merged on master is automatically deployed.*
 
-It uses Netlify [free plan](https://www.netlify.com/pricing/)
+It uses Netlify [free plan](https://www.netlify.com/pricing/).
 
 ## Content Management System
 
