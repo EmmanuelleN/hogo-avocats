@@ -1,7 +1,5 @@
 # Hogo Avocats Readme
 
-## Introduction
-
 This website is a showcase website for a legal firm. It is a static site generated using [Jekyll](https://jekyllrb.com/). 
 It is hosted on [Netlify](https://www.netlify.com/) and uses [Forestry](https://forestry.io/) as a CMS.
 The contact form uses [Getform](https://getform.io/).
