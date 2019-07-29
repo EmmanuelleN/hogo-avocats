@@ -11,7 +11,7 @@ How to install a Ruby development environment and the Jekyll gem : [https://jeky
 
 To launch the website locally, run first
 ```bundle``` 
-to install the gem.
+to install the gems.
 
 The website is generated and served using the command 
 ```jekyll serve```
