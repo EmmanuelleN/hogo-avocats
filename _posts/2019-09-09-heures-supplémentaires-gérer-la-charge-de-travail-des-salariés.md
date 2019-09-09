@@ -13,8 +13,6 @@ Au-delà des retournements de situation vécues par les employeurs s’agissant 
 
 ## 1ère raison : toute heure effectuée par le salarié au-delà de 35 heures du fait de sa charge de travail doit être qualifiée d’heure supplémentaire
 
-## 
-
 En effet, la Cour de cassation est formelle, constituent des supplémentaires celles réalisées, même en présence d'une opposition formelle de l'employeur, dès lors que la réalisation de telles heures a été rendue nécessaire par les tâches qui ont été confiées au salarié.
 
 Ainsi, dans l’éventualité d’un contentieux, si le salarié parvient à démontrer d’une part les heures supplémentaires réalisées et, d’autre part, qu’il était contraint eu égard à ses missions de les réaliser, l’employeur devrait inéluctablement être condamnée au paiement de ces heures.
@@ -23,12 +21,10 @@ L’addition peut être salée : ces heures sont chargées et le salarié peut r
 
 ## 2ème raison : le fait de ne pas maîtriser la charge de travail des salariés peut conduire ces derniers à un épuisement professionnel, des accidents ou toute conséquence que l’on peut imaginer relativement à la fatigue et la charge mentale que représente un travail trop conséquent.
 
-## 
-
 Or, en cas d’accident, la responsabilité de l’employeur peut être multiple :
 
 * La faute inexcusable n’est jamais très loin. Sans entrer dans les détails, l’employeur pourrait être condamné à des dommages et intérêts du fait d’une faute inexcusable.
-* Dans l’éventualité d’une inaptitude, le salarié devrait naturellement être tenté de considérer que son inaptitude serait la conséquence d’un manquement fautif de l’employeur, à savoir une charge de travail trop conséquente. 
+* Dans l’éventualité d’une inaptitude, le salarié devrait naturellement être tenté de considérer que son inaptitude serait la conséquence d’un manquement fautif de l’employeur, à savoir une charge de travail trop conséquente.
 
   Aussi, même si l’employeur respecte la procédure spécifique de licenciement d’un salarié inapte (recherche de reclassement etc.) , le licenciement serait nécessairement fautif puisqu'étant la conséquence du comportement fautif de l’employeur.
 
