@@ -5,19 +5,19 @@ image: ''
 meta-desc: ''
 
 ---
-**Le coronavirus et le droit de retrait** 
+**Le coronavirus et le droit de retrait**
 
-Depuis plusieurs semaines, le coronavirus gagne du terrain et les employeurs sont donc les premiers à devoir faire face à une réalité de terrain, à savoir notamment l'inquiétude de leurs salariés. 
+Depuis plusieurs semaines, le coronavirus gagne du terrain et les employeurs sont donc les premiers à devoir faire face à une réalité de terrain, à savoir notamment l'inquiétude de leurs salariés.
 
-De nombreuses entreprises de dimension internationale ont d'ailleurs d'ores et déjà pris certaines mesures drastiques comme par exemple l'interdiction de tout déplacement ou encore la mise en quarantaine de salariés ayant voyagé ou dont les conjoints/conjointes ont voyagé. 
+De nombreuses entreprises de dimension internationale ont d'ailleurs d'ores et déjà pris certaines mesures drastiques comme par exemple l'interdiction de tout déplacement ou encore la mise en quarantaine de salariés ayant voyagé ou dont les conjoints/conjointes ont voyagé.
 
-La frénésie dans laquelle l'actuelle nous place tous et toutes nous pose donc à se poser une question très simple : le salarié peut-il faire valoir son droit de retrait pour refuser de venir travailler dans le cadre du coronavirus ? 
+La frénésie dans laquelle l'actuelle nous place tous et toutes nous pose donc à se poser une question très simple : le salarié peut-il faire valoir son droit de retrait pour refuser de venir travailler dans le cadre du coronavirus ?
 
-Cette question permet plus globalement de revenir sur le rôle de l'employeur en matière de sécurité. 
+Cette question permet plus globalement de revenir sur le rôle de l'employeur en matière de sécurité.
 
-1er point : abordons en premier lieu un aspect théorique, à savoir la repoonsabilité de l'employeur en matière de sécurité 
+1er point : abordons en premier lieu un aspect théorique, à savoir la repoonsabilité de l'employeur en matière de sécurité
 
-L'employeur doit garantir par tous les moyens possibles la santé et la sécurité de ses salariés tant du point vue psychique que physique. 
+L'employeur doit garantir par tous les moyens possibles la santé et la sécurité de ses salariés tant du point vue psychique que physique.
 
 A ce titre, la cour de cassation est venue préciser que pour s’exonérer de sa responsabilité, l’employeur doit avoir pris toutes les mesures de préventions visées par les articles L.4121-1 et L.4121-2 du Code du travail **(Cass, soc1er juin 2016, n° 14-28.870, Cass. soc., 5 oct. 2016, n° 15-20.140 Cass. soc., 1er févr. 2017, n° 15-24.166).**
 
@@ -33,23 +33,23 @@ L’employeur veille à l’adaptation de ces mesures pour tenir compte du chang
 
 En cas d’accident, l’employeur engage sa responsabilité pénale et civile qu’il peut soit atténuer ou dont il peut s’exonérer s’il a pris les mesures de sécurité qui s’imposaient avant la survenance de l’accident.
 
-Prenons l'exemple d'un travail effectué sur un toit consistant dans une opération d'étanchéité. 
+Prenons l'exemple d'un travail effectué sur un toit consistant dans une opération d'étanchéité.
 
-Les salariés commencent à travailler sans avoir sécurisé les abords du toits. 
+Les salariés commencent à travailler sans avoir sécurisé les abords du toits.
 
-Un salarié chute alors de 10 mètres et se tue. Dans une telle hypothèse, il sera reproché à l'employeur de ne pas avoir sécurisé la zone de travail. 
+Un salarié chute alors de 10 mètres et se tue. Dans une telle hypothèse, il sera reproché à l'employeur de ne pas avoir sécurisé la zone de travail.
 
-2ème point : quel est le rôle concrêt de l'employeur en matière de sécurité ? 
+2ème point : quel est le rôle concrêt de l'employeur en matière de sécurité ?
 
 Concrètement, dans un monde idéal, l'employeur doit respecter de grands principes méthodologiques pour parvenir à garantir la sécurité de ses salariés.
 
 Il doit bien évidemment dégager du temps et des moyens  pour effectuer une évaluation sérieuse des risques existants au sein de l'entreprise.
 
-Il peut à ce titre faire appel à des salariés disposant de compétences particulières sur la sécurité de par leurs formations ou encore, aux services de santé au travail. 
+Il peut à ce titre faire appel à des salariés disposant de compétences particulières sur la sécurité de par leurs formations ou encore, aux services de santé au travail.
 
-L'objectif est ici de dresser un tableau précis des risques, la prise en compte du travail réel) et d'établir sur cette base un travail de sécurisation. 
+L'objectif est ici de dresser un tableau précis des risques, la prise en compte du travail réel) et d'établir sur cette base un travail de sécurisation.
 
-Fort logiquement, ce n'est que lorsque les risques auront pu être identifiés que l'employeur sera en mesure de réfléchir concrètement aux moyens de prévenir ces risques. 
+Fort logiquement, ce n'est que lorsque les risques auront pu être identifiés que l'employeur sera en mesure de réfléchir concrètement aux moyens de prévenir ces risques.
 
 Ainsi par exemple, il peut être imaginé une procédure permettant de garantir la bonne sécurisation du lieu de travail en cas d’accident grave et de gérer les différents intervenants qui pourraient survenir au sein de l’entreprise : médecin du travail, inspection du travail, police, journaliste etc.
 
@@ -63,7 +63,7 @@ Ainsi par exemple, des questions très concrètes peuvent se poser dans le cadre
 
 \- rechercher des témoins ?
 
-Prenons encore un autre exemple : les étapes à respecter pourraient être les suivantes si l'on souhaite sécuriser les lieux de travail. 
+Prenons encore un autre exemple : les étapes à respecter pourraient être les suivantes si l'on souhaite sécuriser les lieux de travail.
 
 **Etape 1 : procéder à une analyse des risques au sein de l’entreprise**
 
@@ -101,7 +101,7 @@ Ainsi par exemple, la sécurisation de la circulation des lieux de travail dans 
 
 L'employeur a l’obligation d'organiser une formation pratique et appropriée en matière de sécurité, au bénéfice de vos salariés ainsi que de les informer sur les risques pour leur santé et leur sécurité.
 
-Formation à la sécurité : 
+Formation à la sécurité :
 
 La formation à la sécurité a pour objet d’instruire le travailleur des précautions à prendre pour assurer sa propre sécurité et, le cas échéant, celle des autres personnes travaillant dans l'établissement et porte donc sur :
 
@@ -115,7 +115,7 @@ Ainsi, lors de la formation, l’utilité des mesures de prévention prescrites 
 
 Bien évidemment, la formation dispensée tient compte de la formation, de la qualification, de l'expérience professionnelle et de la langue, parlée ou lue, du travailleur appelé à en bénéficier.
 
-L'information des salariés : 
+L'information des salariés :
 
 Cette information porte au minimum sur :
 
@@ -137,10 +137,52 @@ Il convient d'équiper les lieux de travail d’un matériel de premiers secours
 
 Il est essentiel de reccueillir l'avis du médecin du travail sur le choix de ce matériel afin de recevoir tout conseil utile de sa part en matière médicale sur ce point.
 
-Il est donc évident que le coronavirus va s'inviter dans la démarche de prévention globale du chef d'entreprise. 
+Il est donc évident que le coronavirus va s'inviter dans la démarche de prévention globale du chef d'entreprise.
 
-Revenons-en donc à notre question intiale, un salarié peut il faire usage de son droit de retrait en cas d'inquiétude par rapport au coronavirus ? 
+Revenons-en donc à notre question intiale, un salarié peut il faire usage de son droit de retrait en cas d'inquiétude par rapport au coronavirus ?
 
-Avant toute chose, il est nécessaire définir précisement ce qu'est le droit de retrait. 
+Avant toute chose, il est nécessaire définir précisement ce qu'est le droit de retrait.
 
-Rien de mieux que la loi pour nous aider : 
+Rien de mieux que la loi pour nous aider :
+
+"Le travailleur alerte immédiatement l'employeur de toute situation de travail dont il a un motif raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé ainsi que de toute défectuosité qu'il constate dans les systèmes de protection.
+
+Il peut se retirer d'une telle situation.
+
+L'employeur ne peut demander au travailleur qui a fait usage de son droit de retrait de reprendre son activité dans une situation de travail où persiste un danger grave et imminent résultant notamment d'une défectuosité du système de protection". 
+
+Comment interpréter cette définition ? 
+
+Le droit de retrait suppose la réunion de plusieurs éléments cumulatifs : 
+
+* 1. Un danger qui doit se manifester par une menace pour la vie ou la santé du salarié et donc pour son intégrité physique. 
+* 2. Un danger grave, ce qui laisse supposer l'existence d'une menace sérieuse. 
+* 3. L'imminence : le danger est donc sur le point de se produire. 
+
+Exemple de droit de retrait injustifié 
+
+Le seul fait de travailler sur un site nucléaire ne constitue pas en soi un risque ou un motif raisonnable de nature à permettre au salarié d'exercer son droit de retrait 
+
+De la même manière, la seule présence d'amiante dans l'entreprise ne suffit pas à justifier le droit de retrait. 
+
+Exemple de droit de retrait justifié 
+
+Est justifiée l'exercice du droit de retrait par le salarié mettant en avant la défectuosité du système de freinage du camion de l'entreprise mis à sa disposition dans l'exercice de ses fonctions. 
+
+Comment s'apprécie le droit de retrait ? 
+
+L'appréciation du droit de retrait comporte toujours une part objective et subjective puisqu'il faut se placer du point de vue du salarié (il doit avoir une peur raisonnable de penser que sa santé ou sa vie sont en danger) mais également des connaissances techniques et scientifiques du salarié ainsi que des circonstances concrètes de sa situation. 
+
+Il faut donc un minimum de réflexion de la part du salarié qui doit prouver que son droit de retrait est bien justifié. 
+
+Les mouvements irrationnels, de panique ou instinctifs ne peuvent pas caractériser l'exercice justifié du droit de retrait. 
+
+Qu'en est il du droit de retrait par rapport au coronavirus ? 
+
+La réponse n'est pas simple dans la mesure où il faut concrètement apprécier la situation. 
+
+Par principe, l'épidémie du coronavirus ne constitue pas un danger grave et imminent. 
+
+Tout dépend des conditions de travail du salarié : voyage-t-il dans un pays à risque ? est-il en contact avec des personnes à risques ? souffre-t-il d'une pathologie particulière le rendant plus vulnérable au virus ? quelles sont les mesures de préventions mises en oeuvre par l'employeur (lavage de mains, gants etc.). 
+
+Dans ces conditions, dès lors que sont mises en œuvre tant par l’employeur que par les salariés les recommandations du gouvernement la seule circonstance que je sois affecté(e) à l’accueil du public et pour des contacts brefs ne suffit pas, sous réserve de l’appréciation souveraine des tribunaux, à considérer que je justifie d’un motif raisonnable pour exercer mon droit de retrait.
