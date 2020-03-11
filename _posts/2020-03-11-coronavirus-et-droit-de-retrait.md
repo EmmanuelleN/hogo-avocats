@@ -2,8 +2,8 @@
 publication-date: 2020-03-10 10:32:20 +0000
 title: 'Coronavirus et droit de retrait '
 permalink: "/coronavirus-et-droit-de-retrait"
-image: ''
-meta-desc: ''
+image: assets/images/coronavirus.png
+meta-desc: 'Le droit de retrait protège le salarié face à une situation de danger. '
 
 ---
 ## **Le coronavirus et le droit de retrait**
