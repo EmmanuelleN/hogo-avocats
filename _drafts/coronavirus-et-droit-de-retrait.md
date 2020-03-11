@@ -150,34 +150,31 @@ Avant toute chose, il est nécessaire définir précisément ce qu'est le droit 
 
 Rien de mieux que la loi pour nous aider :
 
-"Le travailleur alerte immédiatement l'employeur de toute situation de travail dont il a un motif raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé ainsi que de toute défectuosité qu'il constate dans les systèmes de protection.
+_"Le travailleur alerte immédiatement l'employeur de toute situation de travail dont il a un motif raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé ainsi que de toute défectuosité qu'il constate dans les systèmes de protection._
 
-Il peut se retirer d'une telle situation.
+_Il peut se retirer d'une telle situation._
 
-L'employeur ne peut demander au travailleur qui a fait usage de son droit de retrait de reprendre son activité dans une situation de travail où persiste un danger grave et imminent résultant notamment d'une défectuosité du système de protection".
+_L'employeur ne peut demander au travailleur qui a fait usage de son droit de retrait de reprendre son activité dans une situation de travail où persiste un danger grave et imminent résultant notamment d'une défectuosité du système de protection"._
 
-Comment interpréter cette définition ?
+**_Comment interpréter cette définition ?_**
 
 Le droit de retrait suppose la réunion de plusieurs éléments cumulatifs :
 
-* 
-  1. Un danger qui doit se manifester par une menace pour la vie ou la santé du salarié et donc pour son intégrité physique.
-* 
-  1. Un danger grave, ce qui laisse supposer l'existence d'une menace sérieuse.
-* 
-  1. L'imminence : le danger est donc sur le point de se produire.
+* **1. Un danger** qui doit se manifester par une menace pour la vie ou la santé du salarié et donc pour son intégrité physique.
+* **2. Un danger grave,** ce qui laisse supposer l'existence d'une menace sérieuse. 
+* **3. L'imminence :** le danger est donc sur le point de se produire.
 
-Exemple de droit de retrait injustifié
+_Exemple de droit de retrait injustifié_
 
 Le seul fait de travailler sur un site nucléaire ne constitue pas en soi un risque ou un motif raisonnable de nature à permettre au salarié d'exercer son droit de retrait
 
 De la même manière, la seule présence d'amiante dans l'entreprise ne suffit pas à justifier le droit de retrait.
 
-Exemple de droit de retrait justifié
+_Exemple de droit de retrait justifié_
 
 Est justifiée l'exercice du droit de retrait par le salarié mettant en avant la défectuosité du système de freinage du camion de l'entreprise mis à sa disposition dans l'exercice de ses fonctions.
 
-Comment s'apprécie le droit de retrait ?
+**_Comment s'apprécie le droit de retrait ?_**
 
 L'appréciation du droit de retrait comporte toujours une part objective et subjective puisqu'il faut se placer du point de vue du salarié (il doit avoir une peur raisonnable de penser que sa santé ou sa vie sont en danger) mais également des connaissances techniques et scientifiques du salarié ainsi que des circonstances concrètes de sa situation.
 
@@ -185,7 +182,7 @@ Il faut donc un minimum de réflexion de la part du salarié qui doit prouver qu
 
 Les mouvements irrationnels, de panique ou instinctifs ne peuvent pas caractériser l'exercice justifié du droit de retrait.
 
-Qu'en est il du droit de retrait par rapport au coronavirus ?
+**_Qu'en est il du droit de retrait par rapport au coronavirus ?_**
 
 La réponse n'est pas simple dans la mesure où il faut concrètement apprécier la situation.
 
@@ -193,7 +190,7 @@ Par principe, l'épidémie du coronavirus ne constitue pas un danger grave et im
 
 Tout dépend des conditions de travail du salarié : voyage-t-il dans un pays à risque ? est-il en contact avec des personnes à risques ? souffre-t-il d'une pathologie particulière le rendant plus vulnérable au virus ? quelles sont les mesures de préventions mises en oeuvre par l'employeur (lavage de mains, gants etc.).
 
-Il est donc faux d'affirmer que par principe, le droit de retrait serait injustifié. 
+Il est donc faux d'affirmer que par principe, le droit de retrait serait injustifié ou justifié. 
 
 C'est d'ailleurs ce qu'a rappelé le gouvernement dans un question/réponse : 
 
