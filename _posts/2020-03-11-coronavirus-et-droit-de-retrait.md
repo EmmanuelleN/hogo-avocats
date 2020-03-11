@@ -10,15 +10,15 @@ meta-desc: 'Le droit de retrait protège le salarié face à une situation de da
 
 Depuis plusieurs semaines, le coronavirus gagne du terrain et les employeurs sont donc les premiers à devoir faire face à une réalité de terrain, à savoir notamment l'inquiétude de leurs salariés.
 
-De nombreuses entreprises de dimension internationale ont d'ailleurs d'ores et déjà pris certaines mesures drastiques comme par exemple l'interdiction de tout déplacement ou encore la mise en quarantaine de salariés ayant voyagé ou dont les conjoints/conjointes ont voyagé dans un pays dit à risque. 
+De nombreuses entreprises de dimension internationale ont d'ailleurs d'ores et déjà pris certaines mesures drastiques comme par exemple l'interdiction de tout déplacement ou encore la mise en quarantaine de salariés ayant voyagé ou dont les conjoints/conjointes ont voyagé dans un pays dit à risque.
 
 La frénésie dans laquelle l'actuelle nous place tous et toutes nous pose donc à se poser une question très simple : **le salarié peut-il faire valoir son droit de retrait pour refuser de venir travailler dans le cadre du coronavirus ?**
 
-**La réponse dépendra des cas d'espèce, c'est à dire, des faits qui ont poussé le salarié à faire valoir son droit de retrait (exemple : un salarié envoyé en déplacement à Milan).** 
+**La réponse dépendra des cas d'espèce, c'est à dire, des faits qui ont poussé le salarié à faire valoir son droit de retrait (exemple : un salarié envoyé en déplacement à Milan).**
 
-**L'intérêt du droit de retrait est de permettre au salarié de ne pas être sanctionné par son employeur en cas de refus de travailler pour ce motif tout en étant par ailleurs rémunéré.** 
+**L'intérêt du droit de retrait est de permettre au salarié de ne pas être sanctionné par son employeur en cas de refus de travailler pour ce motif tout en étant par ailleurs rémunéré.**
 
-**_NB : pour ceux qui ne sont pas patients, la réponse se trouve en fin d'article :)_** 
+**_NB : pour ceux qui ne sont pas patients, la réponse se trouve en fin d'article :)_**
 
 Cette question permet plus globalement de revenir sur le rôle de l'employeur en matière de sécurité.
 
@@ -28,7 +28,7 @@ L'employeur doit garantir par tous les moyens possibles la santé et la sécurit
 
 A ce titre, la cour de cassation est venue préciser que pour s’exonérer de sa responsabilité, l’employeur doit avoir pris toutes les mesures de préventions visées par les articles L.4121-1 et L.4121-2 du Code du travail (Cass, soc, 1er juin 2016, n° 14-28.870, Cass, soc, 5 octobre 2016, n° 15-20.140 Cass, soc, 1er février 2017, n° 15-24.166).
 
-Or, les mesures visées par les articles L.4121-1 et -2 du Code du travail sont particulièrement précises et comprennent : 
+Or, les mesures visées par les articles L.4121-1 et -2 du Code du travail sont particulièrement précises et comprennent :
 
 \- des actions de prévention des risques professionnels ;
 
@@ -38,9 +38,9 @@ Or, les mesures visées par les articles L.4121-1 et -2 du Code du travail sont 
 
 L’employeur veille à l’adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l’amélioration des situations existantes.
 
-En cas d’accident, l’employeur engage sa responsabilité pénale et civile qu’il peut soit atténuer soit s'en exonérer s’il a pris les mesures de sécurité qui s’imposaient avant la survenance de l’accident.
+En cas d’accident, l’employeur engage sa responsabilité pénale et civile qu’il peut soit atténuer soit ou dont il peut s'en exonérer s’il a pris les mesures de sécurité qui s’imposaient avant la survenance de l’accident.
 
-_Prenons l'exemple d'un travail effectué sur un toit consistant dans une opération d'étanchéité._
+_Prenons l'exemple d'un travail effectué sur un toit consistant en une opération d'étanchéité._
 
 Les salariés commencent à travailler sans avoir sécurisé les abords du toits. Un salarié chute alors de 10 mètres et se tue. Dans une telle hypothèse, il sera reproché à l'employeur de ne pas avoir sécurisé la zone de travail.
 
@@ -52,7 +52,7 @@ Il doit bien évidemment dégager du temps et des moyens  pour effectuer une év
 
 Il peut à ce titre faire appel à des salariés disposant de compétences particulières sur la sécurité de par leurs formations ou encore, aux services de santé au travail.
 
-L'objectif est ici de dresser un tableau précis des risques, la prise en compte du travail réel et d'établir sur cette base une sécurisation en prenant les mesures adéquats. 
+Ici, l'objectif est de dresser un tableau précis des risques, la prise en compte du travail réel et d'établir sur cette base une sécurisation en prenant les mesures adéquats.
 
 Fort logiquement, ce n'est que lorsque les risques auront pu être identifiés que l'employeur sera en mesure de réfléchir concrètement aux moyens de prévenir ces risques.
 
@@ -134,7 +134,7 @@ Cette information porte au minimum sur :
 
 \- les consignes et instructions de sécurité incendie et l'identité des personnes chargées d'organiser les secours.
 
-Il convient en tout état de cause d’associer la médecine du travail dans l’élaboration des actions de formation à la sécurité et la détermination du contenu de l’information
+Il convient, en tout état de cause, d’associer la médecine du travail dans l’élaboration des actions de formation à la sécurité et la détermination du contenu de l’information
 
 **Etape 4 : organiser les premiers secours**
 
@@ -161,7 +161,7 @@ _L'employeur ne peut demander au travailleur qui a fait usage de son droit de re
 Le droit de retrait suppose la réunion de plusieurs éléments cumulatifs :
 
 * **1. Un danger** qui doit se manifester par une menace pour la vie ou la santé du salarié et donc pour son intégrité physique.
-* **2. Un danger grave,** ce qui laisse supposer l'existence d'une menace sérieuse. 
+* **2. Un danger grave,** ce qui laisse supposer l'existence d'une menace sérieuse.
 * **3. L'imminence :** le danger est donc sur le point de se produire.
 
 _Exemple de droit de retrait injustifié_
@@ -172,7 +172,7 @@ De la même manière, la seule présence d'amiante dans l'entreprise ne suffit p
 
 _Exemple de droit de retrait justifié_
 
-Est justifiée l'exercice du droit de retrait par le salarié mettant en avant la défectuosité du système de freinage du camion de l'entreprise mis à sa disposition dans l'exercice de ses fonctions.
+Est justifié l'exercice du droit de retrait par le salarié mettant en avant la défectuosité du système de freinage du camion de l'entreprise mis à sa disposition dans l'exercice de ses fonctions.
 
 **_Comment s'apprécie le droit de retrait ?_**
 
@@ -190,10 +190,10 @@ Par principe, l'épidémie du coronavirus ne constitue pas un danger grave et im
 
 Tout dépend des conditions de travail du salarié : voyage-t-il dans un pays à risque ? est-il en contact avec des personnes à risques ? souffre-t-il d'une pathologie particulière le rendant plus vulnérable au virus ? quelles sont les mesures de préventions mises en oeuvre par l'employeur (lavage de mains, gants etc.).
 
-Il est donc faux d'affirmer que par principe, le droit de retrait serait injustifié ou justifié. 
+Il est donc faux d'affirmer que par principe, le droit de retrait serait injustifié ou justifié.
 
-C'est d'ailleurs ce qu'a rappelé le gouvernement dans un question/réponse : 
+C'est d'ailleurs ce qu'a rappelé le gouvernement dans un questions/réponses :
 
 _"L’appréciation se fait au cas par cas. Peut être considéré comme « grave » tout danger susceptible de produire un accident ou une maladie entraînant la mort ou paraissant devoir entraîner une incapacité permanente ou temporaire prolongée et comme « imminent », tout danger susceptible de se réaliser brutalement dans un délai rapproché."_
 
-Pour accéder au Q/R du Gouvernement, [cliquer ici](https://travail-emploi.gouv.fr/IMG/pdf/coronavirus_entreprises_et_salaries_qr_v2.pdf) 
+Pour accéder au Q/R du Gouvernement, [cliquer ici](https://travail-emploi.gouv.fr/IMG/pdf/coronavirus_entreprises_et_salaries_qr_v2.pdf)
