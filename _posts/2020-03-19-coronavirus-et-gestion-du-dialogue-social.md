@@ -1,7 +1,7 @@
 ---
 publication-date: 2020-03-19 10:10:37 +0000
 title: 'Coronavirus et gestion du dialogue social '
-permalink: "/cornavirus-et-gestion-des-representants-du-personnel"
+permalink: "/cornavirus-et-gestion-du-dialogue-social"
 image: assets/images/visioconference.png
 meta-desc: 'Utiliser les nouvelles technologies gérer les relations sociales en temps
   de crise : une nécessité '
