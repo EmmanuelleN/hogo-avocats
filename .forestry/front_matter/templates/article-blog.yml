@@ -31,7 +31,6 @@ fields:
     display_utc: false
   default: now
 pages:
-- _posts/10-points-à-retenir-pour-bien-comprendre-le-contenu-d-un-cdi.md
 - _posts/2018-08-23-le-contrat-de-travail-à-temps-partiel.md
 - _posts/2018-09-24-le-consentement-dans-la-rupture-conventionnelle.md
 - _posts/2018-11-18-salaire-brut-et-salaire-net.md
@@ -47,4 +46,5 @@ pages:
 - _posts/2020-03-11-coronavirus-et-droit-de-retrait.md
 - _posts/2020-03-19-coronavirus-et-gestion-du-dialogue-social.md
 - _posts/2020-05-03-télétravail-5-points-à-retenir.md
+- _posts/2020-05-04-10-points-à-retenir-pour-bien-comprendre-le-contenu-d-un-cdi.md
 - _posts/heures-supplémentaires-gérer-la-charge-de-travail-des-salariés.md
