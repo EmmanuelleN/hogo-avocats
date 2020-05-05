@@ -28,7 +28,7 @@ Pendant cette période, chacune des parties peut rompre le contrat sans respecte
 
 En général, la clause renvoie aux délais de prévenance légaux ou issus de la convention collective applicable. Ce renvoi n’est pas obligatoire, mais il permet toutefois de poser clairement les choses avec le salarié.
 
-Attention cependant aux conventions collectives qui peuvent parfois prévoir des clauses particulièrement dérogatoires comment pour la SYNTEC. 
+Attention cependant aux conventions collectives qui peuvent parfois prévoir des clauses particulièrement dérogatoires comment pour la SYNTEC.
 
 ## **3ème point : emploi et qualification**
 
@@ -43,17 +43,17 @@ Cette précision attire l’attention du salarié que les fonctions sont évolut
 
 _Lorsque les juges estiment que certains éléments constituent une modification du contrat de travail, cela signifie que le refus du salarié ne peut pas être sanctionné. Par contre, si c’est un simple changement des conditions de travail, le refus du salarié peut être sanctionné._
 
-## **4ème point : emploi et qualification**
+## **4ème point : lieu de travail**
 
 Il est en principe recommandé de ne pas fixer de lieu de travail en précisant qu’il est donné à titre indicatif et que le salarié pourra être amené à faire des déplacements d’une durée plus ou moins longue.
 
-L’intérêt : il est possible de demander au salarié, sans requérir son accord, d’aller travailler dans un autre endroit tant qu’il s’agit de la même zone géographique (périmètre raisonnable). 
+L’intérêt : il est possible de demander au salarié, sans requérir son accord, d’aller travailler dans un autre endroit tant qu’il s’agit de la même zone géographique (périmètre raisonnable).
 
 Là encore, certaines spécificités liées à la fonction du salarié, à la qualification du salarié (cadre ou non cadre) et à la taille de l’entreprise peuvent nécessiter d’adapter la clause. A noter qu’il n’existe pas de définition de la zone géographique.
 
 ## **5ème point : rémunération**
 
-Il s’agit bien souvent de l’article qui intéresse le plus le salarié. Mais pourquoi fixer une rémunération ? 
+Il s’agit bien souvent de l’article qui intéresse le plus le salarié. Mais pourquoi fixer une rémunération ?
 
 Le contrat de travail est un contrat « synallagmatique », terme pompeux qui signifie que les parties s’engagent l’une envers l’autre.
 
@@ -69,8 +69,8 @@ Deux situations sont envisagées en principe :
 
 * Soit le salarié relève des **35 heures classiques**. Dans ce cas, il est seulement fait mention que le salarié est soumis à la durée légale.
 
-  _Certaines particularités liées à l’activité de l’employeur peuvent toutefois nécessiter de préciser les choses : travail en équipe, organisation pluri-hebdomadaire du temps de travail etc. Dans ce cas, il faut effectivement détailler, et ne pas se contenter de renvoyer à la durée légale._ 
-* Soit le salarié est soumis au **forfait, qu'il soit en heures ou en jours**. 
+  _Certaines particularités liées à l’activité de l’employeur peuvent toutefois nécessiter de préciser les choses : travail en équipe, organisation pluri-hebdomadaire du temps de travail etc. Dans ce cas, il faut effectivement détailler, et ne pas se contenter de renvoyer à la durée légale._
+* Soit le salarié est soumis au **forfait, qu'il soit en heures ou en jours**.
 
   Le forfait heures comme le forfait jours doit faire l'objet d'une clause écrite au sein du contrat de travail.
 
@@ -94,7 +94,7 @@ La clause de non concurrence concerne l’après contrat de travail, une fois qu
 
 Elle l’est notamment pour les artisans et commerçants. Si par exemple, vous avez créé un salon de coiffure, votre salarié sera amené à travailler avec la clientèle tous les jours, qui bien évidemment nouera des liens avec lui. Si le salarié décide d’ouvrir un salon de coiffure proche du votre, votre chiffre d’affaires pourrait être très impacté. Une clause de non concurrence vous permettrait de lui interdire d’ouvrir un salon de coiffure concurrent dans un secteur géographique bien défini et ainsi de vous protéger.
 
-**Attention :** 
+**Attention :**
 
 Il faut toutefois bien définir la clause de non concurrence et notamment veiller à ce que la durée, la zone géographique, et le montant de l’indemnité soient raisonnables.
 
