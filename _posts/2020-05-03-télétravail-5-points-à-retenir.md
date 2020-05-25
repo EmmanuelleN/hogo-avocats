@@ -2,7 +2,7 @@
 publication-date: 2020-05-03 14:23:48 +0000
 title: 'Télétravail : 5 points à retenir'
 permalink: télétravail-5-points-a-retenir
-image: assets/images/télétravail .png
+image: assets/images/teletravail-1.png
 meta-desc: 'Le télétravail mis en place de manière régulière dans l''entreprise doit
   être organisé et anticipé par l''employeur pour éviter les mauvaises surprises. '
 
