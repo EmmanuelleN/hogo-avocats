@@ -2,7 +2,7 @@
 publication-date: 2020-09-21 11:13:52 +0000
 title: Peut on licencier un salarié du fait du retrait d’une habilitation dont il
   disposait pour exercer son activité professionnelle ?
-permalink: 'peut-on-licencier-un-salarié-du-fait-du-retrait-d-une-habilitation-dont-il-disposait-pour-exercer-son-activité-professionnelle '
+permalink: licencier-salarie-retrait-habilitation
 image: assets/images/peut-on-licencier-un-salarie-du-fait-du-retrait-d-une-habilitation-dont-il-disposait-pour-exercer-son-activite-professionnelle.png
 meta-desc: 'Retrait d''habilitation - licenciement d''un salarié '
 
