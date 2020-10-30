@@ -49,19 +49,6 @@
     }
   }
 
-  &-subtitle {
-    font-size: 1.2rem;
-    color: $dark;
-
-    @media (min-width: 960px) {
-      font-size: 1.4rem;
-    }
-
-    &--noMarginTop {
-      margin-top: 0;
-    }
-  }
-
   &-address {
     margin-top: 5rem;
     font-weight: bolder;

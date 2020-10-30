@@ -35,6 +35,11 @@
 
 .blue {
   color: $blue;
+
+  &--withMargin {
+    margin-top: 5rem;
+    font-size: 1.75rem;
+  }
 }
 
 .blue-maj {
