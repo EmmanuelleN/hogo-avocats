@@ -19,7 +19,10 @@
     <meta name="title" content="{% if page.title %}{{ page.title | truncate: 45 | append: ' - HOGO Avocats'}}{% else %}{{ site.title }}{% endif %}">
   </head>
   <body>
-    
+    {% if page.url != "/ouvrage" %}
+      {% include banner.html %}
+    {% endif %}
+
     {{ content }}
 
     {% include footer.html %}
