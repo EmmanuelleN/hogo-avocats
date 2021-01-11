@@ -1,7 +1,7 @@
 ---
 publication-date: 2021-01-11 14:50:26 +0000
-title: Une belle année à venir
-permalink: Une belle année à venir
+title: Merci !
+permalink: Merci !
 image: assets/images/salaire-brut-et-salaire-net.png
 meta-desc: HOGO avocats référencé au niveau national pour son expertise en rémunération
   collective et individuelle
