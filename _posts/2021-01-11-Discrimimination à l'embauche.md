@@ -1,11 +1,12 @@
 ---
 publication-date: 2020-05-25T05:34:30.000+00:00
-title: ''
-image: ''
-meta-desc: ''
+title: Discrimination à l'embauche
+image: assets/images/discrimination.png
+meta-desc: Apprenez en plus sur la discrimination à l'embauche
+permalink: discrimination-a-l-embauche
 
 ---
-Discrimination à l'embauche 
+# Discrimination à l'embauche
 
 _La discrimination est devenue un élément phare de l’ordre juridique français. Et pourtant, nous n’avons rien inventé ! Nos amis anglo-saxons ont été les premiers à s’accaparer de cette problématique. Qu’est-ce que la discrimination à l’embauche ? Comment prouver la discrimination à l’embauche ? Quelle différence selon le droit du travail et le code Pénal ? Faisons le point._
 
@@ -17,15 +18,13 @@ Quoi de plus parlant que la désormais célèbre série télévisée « Suits »
 
 C’est effectivement l’un des aspects de la discrimination, mais elle est en réalité beaucoup plus riche que la seule discrimination homme-femme.
 
-\[message type=”simple” bg_color=”#EEEEEE” color=”#333333″\]Définition
+## Définition
 
 Une discrimination, c’est une différence de traitement fondée sur des éléments subjectifs spécifiquement visés par la loi (sexe, situation de famille, apparence physique, patronyme, lieu de résidence, état de santé, etc.).
 
 Ainsi par exemple, constitue une discrimination à l’embauche le fait de refuser d’embaucher une personne de couleur, ou provenant d’un quartier difficile.
 
-**Toute la complexité de la discrimination à l’embauche réside dans sa démonstration.**
-
-\[/message\]
+## Toute la complexité de la discrimination à l’embauche réside dans sa démonstration.
 
 Discrimination à l’embauche : la discrimination admise
 
@@ -63,8 +62,6 @@ En droit pénal, la preuve appartient à la partie civile, et au ministère publ
 Toutes les infractions ont une définition bien déterminée. Si les éléments de preuve, appelés éléments matériels, ne permettent pas de qualifier l’infraction, et ne répondent ainsi pas à la définition de l’infraction, la personne poursuivie sera relaxée.
 
 Pour ne prendre qu’un exemple (le plus connu) : le vol. Il se définit comme la soustraction frauduleuse de la chose d’autrui.
-
-\[message type=”simple” bg_color=”#EEEEEE” color=”#333333″\]
 
 ### Question
 
