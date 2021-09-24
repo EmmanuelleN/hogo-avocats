@@ -1,7 +1,7 @@
 ---
 publication-date: 2021-09-23 09:22:52 +0000
 title: 'Salarié protégé : peut-on librement modifier ses conditions de travail ? '
-permalink: salarié-protégé-peut-on-librement-modifier-ses-conditions-de-travail ?
+permalink: salarie-protege-peut-on-librement-modifier-ses-conditions-de-travail
 image: assets/images/justice.png
 meta-desc: 'Le salarié protégé peut voir ses conditions de travail modifiées et son
   refus est fautif. '
