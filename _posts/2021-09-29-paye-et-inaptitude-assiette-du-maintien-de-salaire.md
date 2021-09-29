@@ -9,7 +9,7 @@ meta-desc: 'Inaptitude : l''assiette du salaire à reprendre doit correspondre �
 ---
 # **Paye - inaptitude : quel salaire maintenir si le salarié n’est pas licencié ou reclassé ?**
 
-Et si on parlait un peu paye avec un exemple concret afin de vous prouver que la paye, ça ne s'improvise pas, et qu'il ne suffit pas d'appuyer sur un bouton pour établir un bulletin de salaire ? 
+Et si on parlait un peu paye avec un exemple concret afin de vous prouver que la paye, ça ne s'improvise pas, et qu'il ne suffit pas d'appuyer sur un bouton pour établir un bulletin de salaire ?
 
 Lorsque le salarié déclaré inapte n’est ni reclassé ni licencié à l’issue d’un délai d’1 mois à compter de la date de visite de reprise constatant son inaptitude, l'employeur doit passer à la caisse puisqu'il à l’obligation de reprendre le versement du salaire.
 
@@ -24,8 +24,6 @@ Le salaire versé ainsi au salarié doit correspondre à l'emploi occupé avant 
 En d’autres termes, l’assiette du salaire repris doit inclure l'ensemble des éléments constituant la rémunération qu'il aurait perçus s'il avait travaillé, même si le salarié perçoit des indemnités journalières de sécurité sociale par ailleurs.
 
 Il convient donc d’inclure notamment : le salaire de base, la part variable de rémunération ou encore les heures supplémentaires structurelles effectuées avant l’arrêt de travail.
-
-Attention encore, le salaire ainsi repris doit prendre en compte les éventuelles augmentations des minima conventionnels, du SMIC ou encore d’une augmentation générale des salaires dans l’entreprise.
 
 ## **Qu'en est il d'une prime de 13ème mois ?**
 
