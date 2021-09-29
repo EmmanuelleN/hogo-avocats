@@ -3,7 +3,8 @@ publication-date: 2021-07-13 13:57:57 +0000
 title: 'paye et inaptitude : assiette du maintien de salaire'
 permalink: paye-et-inaptitude-assiette-du-maintien-de-salaire
 image: assets/images/paye.png
-meta-desc: ''
+meta-desc: 'Inaptitude : l''assiette du salaire à reprendre doit correspondre à l’ensemble
+  des éléments de rémunération que le salarié aurait perçu s’il y avait travaillé.'
 
 ---
 # **Paye - inaptitude : quel salaire maintenir si le salarié n’est pas licencié ou reclassé ?**
