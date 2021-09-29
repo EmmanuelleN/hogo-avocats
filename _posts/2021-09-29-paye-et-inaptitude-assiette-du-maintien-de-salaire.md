@@ -1,6 +1,6 @@
 ---
 publication-date: 2021-07-13 13:57:57 +0000
-title: 'paye et inaptitude : assiette du maintien de salaire'
+title: 'Paye et inaptitude : assiette du maintien de salaire'
 permalink: paye-et-inaptitude-assiette-du-maintien-de-salaire
 image: assets/images/paye.png
 meta-desc: 'Inaptitude : l''assiette du salaire à reprendre doit correspondre à l’ensemble
