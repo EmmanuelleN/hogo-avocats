@@ -2,7 +2,7 @@
 publication-date: 2021-12-07 08:07:52 +0000
 title: Offre d'emploi chez HOGO AVOCATS
 permalink: offre-d-emploi
-image: assets/images/offre-d-emploi.png
+image: assets/images/offre-d-emploi-1.png
 meta-desc: 'Hogo avocats recrute : rejoignez nous ! '
 
 ---
